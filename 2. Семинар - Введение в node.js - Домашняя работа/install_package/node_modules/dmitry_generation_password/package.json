@@ -1,0 +1,11 @@
+{
+  "name": "dmitry_generation_password",
+  "version": "1.0.0",
+  "description": "A simple password generator of light and medium complexity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Dmitry Dvornikov",
+  "license": "ISC"
+}
